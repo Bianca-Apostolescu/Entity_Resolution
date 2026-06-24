@@ -6,6 +6,7 @@
 ## Description
 - The code could be run from any UI supporting Jupyter notebooks.
 - There are comments and step-by-step descriptions for the implementation inside the Jupyter notebook.
+- There are two Jupyter notebooks - one that has the entire code and one where the functions have separate files. Apart from this, they are identical.
 
 > [!NOTE]
 > Uploading the original dataset and changing its path is required
